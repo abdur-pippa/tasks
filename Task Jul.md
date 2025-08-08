@@ -101,7 +101,9 @@
 ---
 
 1\. **Frontend -** remove disable save next buttuon (isSubmitable), prevent api call if form data is null
+
 2\. **Backend -** take uuid and shopify category full_name
+
 3\. **Fullstack -** Duplicate Template (e.g., "Hello Template copy copy copy")
 
 15/07/25
@@ -109,6 +111,7 @@
 ---
 
 1\. **Fullstack -** fix issues and review
+
 2\. **Fullstack -** feat: Apply template drawer design and functionalities
 
 16/07/25
@@ -116,6 +119,7 @@
 ---
 
 1\. **Frontend -** Ux and pixel perfect to Apply template drawer
+
 2\. **Fullstack -** feat: apply sku at category template api
 
 17/07/25
@@ -123,8 +127,11 @@
 ---
 
 1\. **Frontend -** Confirm Appy Template and Not found alert type modal
+
 2\. **Fullstack -** Apply Shopify Template (Bulk SKU's via CSV)
+
 3\. **Frontend -** feat: confirm and not found modal added at apply sku's shopify category template
+
 4\. **Frontend -** feat: dnd file upload and import progress simulate & chore: form file data append and refactor
 
 18/07/25
@@ -132,7 +139,9 @@
 ---
 
 1\. **Backend -** chore: common service and reusable
+
 2\. **Backend -** naming convension and refactor
+
 3\. **Frontend -** chore: reusable component of apply category template sku
 
 21/07/25
@@ -140,7 +149,9 @@
 ---
 
 1\. **Frontend -** chore: popup modal position and refactor
+
 2\. **Backend -** isAlreadyAppliedTemplate check exception and api
+
 3\. **Backend -** chore: apply category template by same sku and request file changes (apply type)
 
 22/07/25
@@ -148,13 +159,21 @@
 ---
 
 1\. **Backend -** chore: apply category template by same sku query
+
 2\. **Backend -** chore: some sku found, confirm save and finally show error message
+
 3\. **Backend -** feat: listing status count at shopify category template list api
+
 4\. **Frontend -** fix: show exception err message and handle (onBlur) pasted skus
+
 5\. **Frontend -** chore: optional confirm button
+
 6\. **Frontend -** feat: show listing status count at shopify category template list page
+
 7\. **Frontend -** chore: dynamic button at some found and confirm
+
 8\. **Frontend -** fix: last tab to navigate list page (cat. template)
+
 9\. **Frontend -** chore: handle dynamic error message at same modal
 
 23/07/25
@@ -162,8 +181,11 @@
 ---
 
 1\. **Backend -** review apply sku show exception mesagse
+
 2\. **Frontend -** review and fix variants tab inventory values show and create properly
+
 3\. **Frontend -** review and fix attribute tab drawer edited selected value
+
 4\. **Backend -** r&d ebay order
 
 24/07/25
@@ -171,6 +193,7 @@
 ---
 
 1\. **R & D -** R&D ebay order apis work flow
+
 2\. **R & D -** R & D orders webhooks and others
 
 25/07/25
@@ -178,9 +201,13 @@
 ---
 
 1\. **R & D -** will continue next flow Organize and discuss tasks and
+
 2\. **R & D -** microservice ebay order api integation data ingestion
+
 3\. **Backend -** Talk to inventory service from order service
+
 4\. **Backend -** create and setup ebay developer acc and sandbox
+
 5\. **Backend -** ebay fetch order by sell api and store order
 
 28/07/25
@@ -188,7 +215,9 @@
 ---
 
 1\. **Backend -** Test fetch orders with date range filter - done
+
 2\. **Backend -** create buyer sandbox account and (review 1 business days)
+
 2\. **Backend -** ebay create item, offer, diffferent policies
 
 29/07/25
@@ -196,6 +225,7 @@
 ---
 
 1\. **Backend -** sandbox place order by buyer for item of test seller
+
 2\. **Backend -** order by buyer and order status change api and test as seller
 
 29/07/25
@@ -203,7 +233,9 @@
 ---
 
 1\. **Backend -** refresh token (inv service refresh token) 80 %
+
 2\. **Backend -** create buyer sandbox account and place order (need checkout session - 80%)
+
 3\. **Backend -** refine multi channel data -> job handle
 
 30/07/25
@@ -211,6 +243,7 @@
 ---
 
 1\. **Backend -** refresh token 100 %
+
 2\. **Backend -** To place order (need offer publish - tried with two developer acc. but getting ebay system error)
 
 31/07/25
@@ -218,7 +251,9 @@
 ---
 
 1\. **Backend -** In the Sandbox environment. Approval is still required for access, even in Sandbox. official doc: initiateGuestCheckoutSession: eBay Order API | eBay Developers Program
+
 2\. **Backend -** order staus change < To place order < guest checkout session - dependencies issues. see - no 1
+
 3\. **Frontend -** Sku Drawer fix(Font, color as global, height as py) and take tags input fields as reusable component
 
 ---
@@ -236,7 +271,9 @@
 ---
 
 1\. **Frontend -** refine: color, font, width, reusable input at apply sku drawer frontend
+
 2\. **Backend -** add shopify channel not found exception at backend
+
 3\. **Backend -** ebay api docs.
 
 04/08/25
@@ -249,7 +286,8 @@
 
 ---
 
-1\. **Frontend -** Order page design (take reusable column preferences, dynamic channel column badge, )
+1\. **Frontend -** Order page design (take reusable column preferences, dynamic channel column badge)
+
 2\. **Frontend -** filter drawer (sku, channel multiselect, warehouse multiselect, Date filter)
 
 06/08/25
@@ -257,7 +295,9 @@
 ---
 
 1\. **Frontend -** refine and fix issue of calender with functionalities and finalize overall order page design
+
 2\. **Frontend -** custome reusable radio button for payment
+
 3\. **Backend -** get active channels for select field api
 
 07/08/25
@@ -271,5 +311,7 @@ Sick Leave
 ---
 
 1\. **Frontend -** cancel / mark as paid popup with functionalities
+
 2\. **Frontend -** order edit/detail page
+
 3\. **Backend -**
