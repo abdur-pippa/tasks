@@ -321,10 +321,14 @@ Sick Leave
 ---
 
 1\. **Frontend -** feat: global textarea note field appear by Add Note at order detail page
+
 2\. **Frontend -** chore: disable previous date option added date picker
 order detail page
+
 3\. **Frontend -** (expect delivery date, shipping carrier and tracking id) field added at order detail page
+
 4\. **Frontend -** feat: tab wise dynamic action options
+
 5\. **Backend -** invoice generate with design backend (20%)
 
 12/08/25
@@ -350,6 +354,7 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Shopify order R & D
+
 2\. **Backend -** Refine Feedback of different PRs
 
 18/08/25
@@ -363,7 +368,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Design single flowchart of order module system design
+
 2\. **Backend -** At shopify graphQL app get sample response by fetch order query
+
 3\. **Backend -** Research different article and docs
 
 20/08/25
@@ -371,7 +378,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Design extended order paid flowchart of order module system design
+
 2\. **Backend -** Design extended RabbitMQ Topology flowchart of order module system design
+
 3\. **Backend -** Research different article and docs
 
 21/08/25
@@ -379,7 +388,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Order Service common pattern for all marketplace following system design
+
 2\. **Backend -** Schedulers for all channels, currently implementing Shopify marketplace orders
+
 3\. **Backend -** By GraphQL admin api fetch shopify orders (40%)
 
 22/08/25
@@ -387,7 +398,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Shopify order Graph query
+
 2\. **Backend -** system design and store data to database
+
 3\. **Backend -** collaborate system design
 
 25/08/25
@@ -395,8 +408,11 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Test and fix order fetch and store data to database
+
 2\. **Backend -** order list api at order service
+
 3\. **Frontend -** serve order data to inventory frontend
+
 4\. **Backend -** order cancel docs
 
 26/08/25
@@ -404,7 +420,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Order cancel action from frontend and handle (inventory)
+
 2\. **Backend -** GraphQL cancel order to shopify and manage error to db and display error to frontend
+
 3\. **Backend -** test order cancel and GraphQL mutation
 
 27/08/25
@@ -412,8 +430,11 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** Order mark as transite action from frontend and handle (inventory)
+
 2\. **Backend -** Order mark as deliver action from frontend and handle (inventory)
+
 3\. **Backend -** GraphQL create fulfillment, update tracking, update to shopify and manage error to db and display error to frontend
+
 4\. **Backend -** test order fulfillmentCreate and fulfillmentTrackingInfoUpdate GraphQL mutation
 
 28/08/25
@@ -421,8 +442,11 @@ Casual Leave (family emergency)
 ---
 
 1\. **Frontend -** feat: order mark as transit and delivered actions
+
 2\. **Frontend -** feat: dynamic order tab data fetch
+
 3\. **Frontend -** feat: order (get fulfillment, create fulfillment, update tracking info and fulfillment event) mark as transit and delivered
+
 4\. **Backend -** feat: order status filter added for tab
 
 29/08/25
@@ -430,6 +454,7 @@ Casual Leave (family emergency)
 ---
 
 1\. **Frontend -** feat: open order actions
+
 2\. **Backend -** feat: open fulfillment (could not open order directly dependencies about refunded or cencelled order and couldn't publish listing from my local will check it.)
 
 ## August 25 END
@@ -445,7 +470,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** bigcommerce docs and r & d
+
 2\. **Backend -** bigcommerce ac, store setup and publish listing to store
+
 3\. **Backend -** fetch order by bigCommerceAdapters Http and Log get data response (in progress)
 
 02/09/25
@@ -453,7 +480,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** bigcommerce docs and r & d
+
 2\. **Backend -** fetch order and get order data > success
+
 3\. **Backend -** normalize, store big commerce order data
 
 03/09/25
@@ -461,6 +490,7 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** bigcommerce docs and r & d
+
 2\. **Backend -** cancel order > success ( 1. Like shopify while cancel an order doesn't restock inventory automatically at big commerce marketplace. they have store setting for restock option (e.g: go to store setting). 2. But 'complate' order could update as 'cancel' we have to handle it. 3. for pending order placed or cancelled it won't restock doesn't effect.
 )
 
@@ -469,7 +499,9 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** bigcommerce handle cancel order scenarios
+
 2\. **Backend -** handle common fulfillment
+
 3\. **Backend -** order fulfill, transit
 
 05/09/25
@@ -477,6 +509,7 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** bigcommerce order delivered
+
 2\. **Backend -** handle common fulfillment for transit and delivered and code optimized
 
 08/09/25
