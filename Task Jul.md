@@ -517,3 +517,28 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** R & D webhooks (shopify)
+
+2\. **Backend -** planning common pattern for webhooks
+
+09/09/25
+
+---
+
+1\. **Backend -** implement webhook endpoint at order service and test 'send test health', common pattern for webhooks,
+
+2\. **Backend -** implement orders/create event webhooks and log
+
+10/09/25
+
+---
+
+1\. **Backend -** create shopify webhook subscriptions by GraphQl api and prepare response data
+
+2\. **Backend -** implement 'orders/cancelled' and 'orders/updated' event webhooks and normalize with update data
+
+11/09/25
+
+---
+
+1\. **Backend -** implement orders/paid, orders/fulfilled events for shopify webhook and orders/delete wip
+2\. **Backend -** Migrate Order service code to Order Module at Inventory Service
