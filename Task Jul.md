@@ -541,4 +541,135 @@ Casual Leave (family emergency)
 ---
 
 1\. **Backend -** implement orders/paid, orders/fulfilled events for shopify webhook and orders/delete wip
+
+2\. **Backend -** Order module at inventory service for Migrate Order service code to Order Module at Inventory Service
+
+12/09/25
+
+---
+
+Sick Leave
+
+15/09/25
+
+---
+
+Casual Leave
+
+16/09/25
+
+---
+
+1\. **Backend -** Migrate Order service code to Order Module at Inventory Service
+
+2\. **Backend -** Test for Order module at inventory service for "fetch orders and order actions (cancel, transit, delivered) for shopify and bigcommerce marketplace"
+
+17/09/25
+
+---
+
+1\. **Backend -** Bigcommerce webhook create by api and store/order/created events and furthur operation normalization
+
+2\. **Backend -** Bigcommerce webhook docs and events
+
+18/09/25
+
+---
+
+1\. **Backend -** channel data prepare for serve to different api call
+
+2\. **Backend -** Bigcommerce webhook store/order/update, and order/cancel, order/status or order/fulfill events
+
+19/09/25
+
+---
+
+1\. **Backend -** implement orders/paid, orders/fulfilled events for shopify webhook and orders/delete wip
+
 2\. **Backend -** Migrate Order service code to Order Module at Inventory Service
+
+22/09/25
+
+---
+
+1\. **Backend -** Test and finalize dynamically create webhooks events for all channels (shopify and bigcommerce)
+
+2\. **Backend -** Global Search filters api
+
+23/09/25
+
+---
+
+1\. **Backend -** Order pagination and global search, (sku, channels and order date range filter frontend at filter drawers apply filters) api and **frontend -** dynamic
+
+2\. **Frontend -** Order detail page dynamic data
+
+24/09/25
+
+---
+
+1\. **Backend -** feat: manual synchronize orders api
+
+2\. **Frontend -** fix: tab change after status change, color and spacing at Order Summery Card, add note field position responsive at order details page
+
+25/09/25
+
+---
+
+1\. **Backend -** feat: invoice Preview by dynamic data backend
+
+2\. **Frontend -** fix: collaborate, fix: cencel order action not showing
+
+26/09/25
+
+---
+
+1\. **Backend -** feat: bulk actions order cancel and delivered frontend & backend
+
+2\. **Frontend -** invoice create by blob from invoice content for invoice Preview modal at modal frontend
+
+1\. **Backend -** test manual synchronization is only for logged in users
+
+2\. **Frontend -** some feedback fixes and invoice create by blob from invoice content for invoice Preview modal at modal frontend, fix: shopify fetch order status
+
+29/09/25
+
+---
+
+1\. **Backend -** feedback fixes
+
+2\. **Frontend -** feat: add multiple items section design at custom order drawer
+
+30/09/25
+
+---
+
+1\. **Backend -** feat: custom order drawer full design and functionalities with (items, subtotal, tax, discount, total) calculation
+
+2\. **Frontend -** feat: take new reusable global fields "Search and Select"
+
+01/10/25
+
+---
+
+1\. **Backend -** feat: custom order backend, manage db confliction with previous order work
+
+2\. **Backend -** feat: order request validation
+
+02/10/25
+
+---
+
+1\. **Backend -** feat: pippa sync order number generate dynamically (backend, fronend)
+
+2\. **Bothend -** feat: days filter at order list page (backend, fronend)
+
+3\. **Frontend -** fix: onclick at global button ButtonYellow (fronend)
+
+06/10/25
+
+---
+
+1\. **Backend -** work on multiple fulfillment r & d
+
+2\. **Frontend -** design collaboration
