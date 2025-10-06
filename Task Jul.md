@@ -648,6 +648,14 @@ Casual Leave
 
 2\. **Frontend -** feat: take new reusable global fields "Search and Select"
 
+## September 25 END
+
+# ==================
+
+# October 2025 START
+
+# ==================
+
 01/10/25
 
 ---
