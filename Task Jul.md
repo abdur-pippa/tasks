@@ -681,3 +681,736 @@ Casual Leave
 1\. **Backend -** work on multiple fulfillment r & d
 
 2\. **Frontend -** design collaboration
+
+3\. **Backend -** graphQL query test
+
+4\. **Frontend -** fix: query list page
+
+07/10/25
+
+---
+
+1\. **Backend -** fulfillment order split graphQL query check
+
+2\. **Frontend -** multiple fulfillment frontend design
+
+08/10/25
+
+---
+
+1\. **Backend -** create multiple fulfillment for shopify backend 85%
+
+09/10/25
+
+---
+
+1\. **Backend -** create multiple fulfillment for shopify backend 100 %
+
+2\. **Frontend -** fulfillment ordered list card design and show dynamic
+
+13/10/25
+
+---
+
+1\. **Frontend -** feat: Multiple fulfillment drawer sku and warehouse wise on hand quantity show
+
+2\. **Frontend -** and restrict buy above max quantity, disabled submit while 0 available and dynamic calculation
+mark as shipped and detail page card finaliz
+
+14/10/25
+
+---
+
+1\. **Backend -** Fix Multiple fulfillment - re-split / 2nd time split or multiple fulfillment (backend, fronend)
+
+2\. **Backend -** per shipment invoice generate backend api
+
+15/10/25
+
+---
+
+1\. **Backend -** Shopify Integration - R & D shopify store based and admin api access token
+
+2\. **Backend -** R & D task Shopify Custom Integration
+
+16/10/25
+
+---
+
+1\. **Backend -** Shopify Module - analyzed products, variants, listing codebase (backend, fronend)
+
+2\. **Backend -** R & D shopify graphQL api
+
+3\. **Backend -** optimized code
+
+17/10/25
+
+---
+
+1\. **Backend -** manage shopify custom integration
+
+2\. **Frontend -** shopify custom app store integration (backend, frontend)
+
+3\. **Backend -** Shopify products list api backend and GQL query
+
+20/10/25
+
+---
+
+1\. **Backend -** fetch shopify marketplace job listing from marketplace and store to db
+
+2\. **Frontend -** mapping page design
+
+21/10/25
+
+---
+
+1\. **Frontend -** frontend functionalities and common ui for marketplace for save
+
+2\. **Frontend -** finalize mapping page design
+
+22/10/25
+
+---
+
+1\. **Backend -** get mapping and inventory list api
+
+2\. **Backend -** store mapping inventory with validation api
+
+3\. **Backend -** handle api service and show dynamic data
+
+23/10/25
+
+---
+
+1\. **Backend -** shopify - link, unlink with checked to mapping
+
+2\. **Frontend -** disabled ux while do mapping link
+
+3\. **Frontend -** search for both individually (frontend, backend)
+
+24/10/25
+
+---
+
+1\. **Backend -** exclude rows that are already linked
+
+2\. **Frontend -** exclude rows that are already linked
+
+3\. **Frontend -** design no data found for inventory mapping
+
+4\. **Backend -** finalize and fix all over design frontend and api
+
+27/10/25
+
+---
+
+1\. **Backend -** Order - feat: ediatble global note and update order note (frontend & backend api)
+
+2\. **Frontend -** get graphql store name and save as name while custom integrate and show on necessary value
+
+3\. **Frontend -** fix: save status while shopify orders fetch and integrated store name
+
+28/10/25
+
+---
+
+1\. **Backend -** modify: show error msg
+
+2\. **Frontend -** fix: ui quantity number caryover at custom order modal after delete an item then add item
+
+3\. **Frontend -** shipment invoice show alternate of order invoice frontend
+
+4\. **Frontend -** fix: handle catch error and fix dynamic item shipmenthandle catch error and fix dynamic item shipment
+
+29/10/25
+
+---
+
+1\. **Backend -** fix: final quantity split for create shipment
+
+2\. **Frontend -** fix: not show create shipment button while all fulfilled
+
+3\. **Frontend -** fix: error msg show
+
+4\. **Frontend -** fix: warehouse selected at create shipment
+
+5\. **Backend -** bigcommerce cod order store and all status taken
+
+6\. **Backend -** fix: dependency with single shipment and multiple shipment
+
+30/10/25
+
+---
+
+1\. **Backend -** Order - rest remaining quantities to ship and for single shipment from list
+
+2\. **Frontend -** fix: show cod order for bigcommerce
+
+3\. **Frontend -** remove hard check, add quantity column, comment and changes
+Work progress:
+
+31/10/25
+
+---
+
+1\. **Backend -** fix: duplicate sku at create custom order
+
+2\. **Frontend -** chore: choose any item that user want to create shipment without any item
+
+3\. **Frontend -** chore: hide already delivered not to transit again
+
+## October 25 END
+
+# ==================
+
+# November 2025 START
+
+# ==================
+
+02/11/25 - 04/11/25
+
+---
+
+Office location change - alter workday to others saturday
+
+05/11/25
+
+---
+
+1\. **Backend -** update: bigcommerce status from webhook data
+
+2\. **Frontend -** feat: tracking status page url added at order detail page
+
+3\. **Backend -** fix: webhook url and test
+
+06/11/25
+
+---
+
+Casual Leave (urgent matter (land) - travel home)
+
+08/11/25
+
+---
+
+1\. **Backend -** fix: prevent non digit value
+
+2\. **Frontend -** chore: shipped label show
+
+3\. **Frontend -** fix: only paid status could fulfill
+
+4\. **Frontend -** fix: multiple channel would have same order number
+
+5\. **Backend -**r & d bigcommerce multiple shipment and api test
+
+09/11/25
+
+---
+
+1\. **Backend -** Shopify Module - bug fixes
+
+2\. **Frontend -** Shopify Module - bug fixes
+
+10/11/25
+
+---
+
+1\. **Backend -** Shopify Module bug fixes - fix: Option does not exist at shopify variant product publish
+
+2\. **Backend -** Shopify Module bug fixes - feat: dynamic location id for shopify variant publish backend and fix handle error
+
+3\. **Frontend -** Shopify Module bug fixes - feat: locations option at shopify listing frontend
+
+4\. **Backend -**Shopify Module bug fixes - dynamic category taxonomy id while shopify simple and variant product publish
+
+11/11/25
+
+---
+
+1\. **Backend -** Shopify - fix: category publish issue dynamically
+
+2\. **Frontend -** Shopify - feat: create metafield definition, pinnedMetafield and update metafields at backend
+
+12/11/25
+
+---
+
+1\. **Backend -** Shopify - category metafield r & d and tried with metaobject
+
+13/11/25
+
+---
+
+1\. **Backend -** shopify bug fixes
+
+2\. **Frontend -** shopify bug fixes
+
+15/11/25
+
+---
+
+1\. **Backend -** shopify listing tab reload data gone functionalities issues
+
+2\. **Frontend -** shopify listing tab functionalities single upload issues
+
+16/11/25
+
+---
+
+1\. **Backend -** feat: shopify variant image tab functionalities issue frontend
+
+2\. **Frontend -** fix: upload shopify variant images frontend
+
+17/11/25
+
+---
+
+1\. **Backend -** feat: shopify product variant image publish (single)
+
+2\. **Frontend -** feat: shopify variant image tab functionalities issue frontend
+
+3\. **Frontend -** fix: shopify variant images list issue
+
+18/11/25
+
+---
+
+1\. **Backend -** R & D - Single Inventory Price, Qty, Additional Display Price, Unit Price, Base Price publish update - backend
+
+2\. **Frontend -** feat: Single Inventory Price, Qty, Additional Display Price, Unit Price, Base Price publish update - frontend
+
+3\. **Frontend -** feat: Price and Formate Tab at shopify listing frontend
+
+19/11/25
+
+---
+
+1\. **Backend -** dynamic data of unit and measurement dependend select fields
+
+2\. **Frontend -** shopify listing website seo reload not show updated value
+
+3\. **Frontend -** listing page variant image column right image and price, qty show
+
+20/11/25
+
+---
+
+1\. **Backend -** fix: shopify bulk archive
+
+2\. **Frontend -** fix: shopify listing page image column showing variant image
+
+3\. **Frontend -** fix: not listed tab shopify listing page variants price and qty show
+
+4\. **Frontend -** fix: primary channel not found at active and inactive tab
+
+5\. **Frontend -** fix: no data found at listing page
+
+23/11/25
+
+---
+
+1\. **Backend -** update: sync single item product and with variants
+
+2\. **Backend -** feat: shopify bulk delete and bulk draft api
+
+2\. **Frontend -** fix: tab fetch issue
+
+2\. **Backend -** chore: sync price single item product and with variants
+
+24/11/25
+
+---
+
+1\. **Backend -** feat: shopify single listing delete and bulk action api
+
+2\. **Frontend -** test: sync price for single and bulk action
+
+3\. **Backend -** fix: inactive tab actions (active listing) api
+
+4\. **Frontend -** feat: shopify single listing delete and bulk action frontend
+
+5\. **Frontend -** optimize bulk payload
+
+6\. **Backend -** shopify listing search and filter api
+
+25/11/25
+
+---
+
+1\. **Backend -** fix: delete all images of shopify product
+
+2\. **Backend -** feat: shopify listing global search and filters api
+
+3\. **Frontend -** fix: filter functionalities
+
+4\. **Frontend -** fix and smooth tab switch while different actions
+
+26/11/25
+
+---
+
+1\. **Backend -** fix: save button got disabled, shp set for save button and after last tab navigate to desired listing tab
+
+2\. **Frontend -** fix: close button click > navigate to only draft
+
+3\. **Frontend -** fix: loader added at not listing page
+
+4\. **Frontend -** fix: decimal value for price fields
+
+5\. **Frontend -** fix: no need to show bulk action for not listed
+
+6\. **Frontend -** fix and smooth tab switch while different actions
+
+7\. **Frontend -** fix: show product id at shopify listing page
+
+8\. **Frontend -** fix: url at shopify listing page
+
+9\. **Frontend -** fix: tab value while initial visit shopify listing tab
+
+10\. **Frontend -** fix pricing and formate additional fields value show
+
+11\. **Backend -** fix: product id show api at shopify listing and fix: single product sync for price qty
+
+12\. **Backend -** fix: sync now for shopify variants
+
+27/11/25
+
+---
+
+1\. **Backend -** fix: shopify listing category field data save api
+
+2\. **Backend -** feat: shopify error listing export api
+
+3\. **Backend -** fix: media delete all for shopify listing api
+
+4\. **Frontend -** fix: shopify listing category selected at shopify
+
+5\. **Frontend -** fix: error show at drawer and error export front
+
+6\. **Frontend -** fix: variant images goas to main image section at shopify store
+
+30/11/25
+
+---
+
+1\. **Backend -** feat: variant info update api
+
+2\. **Backend -** chore: sync main image for single product sync
+
+3\. **Frontend -** fix: selected warehouses column at variant tab
+
+4\. **Frontend -** fix: tab page stick, not goes to 1st tab while refresh at shopify product details page
+
+## November 25 END
+
+# ==================
+
+# December 2025 START
+
+# ==================
+
+01/11/25
+
+---
+
+1\. **Backend -** fix: number validation and minimum_level for variants frontend
+
+2\. **Frontend -** fix: number validation and minimum_level for variants frontend
+
+3\. **Backend -** fix: number validation and minimum_level for variants api
+
+4\. **Frontend -** fix: rendered additional fields (id, db_id, parent_id) at variants list at variant tab
+
+02/11/25
+
+---
+
+1\. **Backend -** Shopify full journey check at beta server and feedback and some update
+
+2\. **Frontend -** Shopify full journey check at beta server and feedback and some update
+
+03/11/25
+
+---
+
+1\. **Backend -** Inventory Draft Item Overview, Discussion, Collaborate with team
+
+2\. **Frontend -** Inventory Draft Item Overview, Discussion, Collaborate with team
+
+04/12/25
+
+---
+
+1\. **Backend -** Inventory Draft Item frontend and backend done (PM-8)
+
+2\. **Frontend -** Inventory Draft Item frontend and backend done (PM-8)
+
+06/12/25
+
+---
+
+1\. **Backend -** Inventory Draft Edit Draft Item frontend and backend done (PM-13)
+
+2\. **Frontend -** delete draft item
+
+3\. **Frontend -** take common search & filters for (inventory & draft)
+
+4\. **Frontend -** show counts at draft tab
+
+08/12/25
+
+---
+
+1\. **Backend -** Structure dynamic bulk actions for Inventory Active listings and Draft Listing Tab
+
+2\. **Frontend -** Takeover listing status PM-11
+
+3\. **Backend -** Implement backend api for listing status PM-11
+
+09/12/25
+
+---
+
+1\. **Frontend -** Implement frontend functionalities for listing status tab with dynamic data with counts
+
+2\. **Frontend -** Handle create and complete draft Listing page
+
+10/12/25
+
+---
+
+1\. **Backend -** Implement bulk actions functionalities for listing status PM-11
+
+2\. **Frontend -** Start PM-11 (frontend ui and functionlities) and api backend
+
+11/12/25
+
+---
+
+1\. **Backend -** Implement Override Marketplace info it different listings PM-10
+
+2\. **Frontend -** Override Marketplace info it different listings (shopify)
+
+14/12/25
+
+---
+
+1\. **Frontend -** Ensure all data persists when clicking Save or Save & Next.
+
+2\. **Frontend -** fix instantly show data at shopify Add Details page
+
+15/12/25
+
+---
+
+1\. **Frontend -** categories show, sortBy icon change dynamically, pagination click change workable at draft listings page
+
+2\. **Frontend -** other tab (except general tab) save button click should workable normally)
+
+3\. **Backend -** Refactor
+
+17/12/25
+
+---
+
+Sick Leave
+
+18/12/25
+
+---
+
+1\. **Backend -** fix: dynamic limit add at inventory category list api and sku validation at inventory filter drawer
+
+2\. **Frontend -** not open draft item popup for active listings close or save button at inventory add product
+
+3\. **Frontend -** blank field submit for draft item, should show fields error at inventory add draft product
+
+4\. **Frontend -** should not close inventory product details page, while having errors
+
+5\. **Frontend -** rename popup close button text to cancel
+
+6\. **Frontend -** fix: sku max string limits and category filter search at inventory list page
+
+7\. **Frontend -** Refactor
+
+8\. **Frontend -** Order - Collaborate and discussion Order Refine of Create Shipments
+
+21/12/25
+
+---
+
+1\. **Frontend -** Shopify - R & D issue Inventory variants published and left variant want re-publish
+
+2\. **Backend -** Order R & D
+
+22/12/25
+
+---
+
+1\. **Backend -** Shopify - Filter and show only left(unpublish) variants at create listing > variant tab
+
+2\. **Frontend -** Inventory - fix: listing status feedback and issue
+
+23/12/25
+
+---
+
+1\. **Backend -** Shopify - collaborate with variant re-publish issue
+
+2\. **Backend -** Order - R & D shipping provider for interact shipping label
+
+24/12/25
+
+---
+
+1\. **Backend -** shipping drawer redesign start....
+
+2\. **Frontend -** Qbits - fix: Qbits admin panel sort by issue all sections
+
+28/12/25
+
+---
+
+1\. **Frontend -** Qbits - RMA sub sidebar name modify
+
+2\. **Frontend -** Qbits - Return Items filter statuses name and filters selected name modify
+
+3\. **Frontend -** Qbits - Item Status column name modify at Return List page
+
+4\. **Backend -** Qbits - Return Order List Item Reports and Sub Reports
+
+5\. **Frontend -** Qbits - Order Detail page actioned status show (Repared/Replaced)
+
+29/12/25
+
+---
+
+1\. **Backend -** Qbits - RMA reports api
+
+2\. **Frontend -** Qbits - RMA report cards, sub card and RO details drawer
+
+3\. **Frontend -** Qbits - RMA details design for drawer with timeline
+
+30/12/25
+
+---
+
+1\. **Backend -** Qbits - Customer service module analysis
+
+2\. **Frontend -** Qbits - RO page action alignment fix
+
+3\. **Frontend -** Qbits - Product inventory page search option (barcode) added
+
+31/12/25
+
+---
+
+1\. **Backend -** Qbits - Modify Customer service save api
+
+2\. **Frontend -** Qbits - Customer service modals of skds modify frontend
+
+## December 25 END
+
+# ==================
+
+# January 2026 START
+
+# ==================
+
+04/01/26
+
+---
+
+1\. **Backend -** Qbits - Modify Customer service save instant replace and rma api
+
+2\. **Frontend -** Qbits - Customer service modify by instant replace and rma
+
+06/01/26
+
+---
+
+Casual Leave (family emergency)
+
+05/01/26
+
+---
+
+1\. **Backend -** Qbits - finalize (instant replacement and RMA) at customer service and product service detail page 
+
+2\. **Frontend -** Qbits - modify: hide Hand over button button for rma, as it is already hand overed at for customer service and product service detail
+
+3\. **Frontend -** Qbits - customer info show from order automatically and added received date validation
+
+4\. **Frontend -** Qbits - shipping cost accept 0 at Received timeline modal and added old barcode column at ro detail
+
+5\. **Frontend -** Order refine r & d collaborate
+
+07/01/26
+
+---
+
+1\. **Backend -** Order - Pippa Sync automatically imports orders from connected channels. (Only Open and orders that are not fulfilled yet)
+
+2\. **Frontend -** Order - Design a new modal for the Create Shipping Label action. (mock design with package section)
+
+3\. **Frontend -** Order - Add a new tab in order named Ready to Ship.
+
+4\. **Frontend -** Order - After creating shipping label the order will automatically move to Ready to Ship tab.
+
+5\. **Frontend -** Order - Remove single actions from all tab. Users will redirect to order process page when click on the order id.
+
+08/01/26
+
+---
+
+1\. **Backend -** Shopify - analysis shopify variant create list from not listed tab dependencies.
+
+2\. **Backend -** Shopify - variant create listing backend api for shopify. 50%
+
+11/01/26
+
+---
+
+1\. **Backend -** Shopify - necessary table data updated at variant create listing.
+
+2\. **Backend -** Shopify - image tab for variant image upload support added backend.
+
+3\. **Frontend -** Shopify - image tab for variant image upload support added frontend.
+
+12/01/26
+
+---
+
+1\. **Backend -** Shopify - for marketplaces not listed tab show only partially listed/published variants and not listed/published Inventory
+
+2\. **Frontend -** Shopify - dynamically show "Create Listing" button for variants and parent inventory
+
+3\. **Frontend -** Shopify - for marketplaces not listed tab show only partially listed/published variants and not listed/published Inventory
+
+4\. **Frontend -** Shopify - variant price and quantity, level info manage from Pricing and Format tab
+
+5\. **Frontend -** Shopify - show Child tab info at parent tab info at not needed tab
+
+13/01/26
+
+---
+
+1\. **Backend -** Shopify - taken common method for "update Variant External Ids" after publish/new variant added/sync at publishProductWithVariants and syncProductWithVarinats at backend api
+
+2\. **Frontend -** Shopify - improve UX for user showing Publish / Unpublish status at shopify draft listing page at frontend
+
+3\. **Frontend -** Shopify - dynamically show "Publish to Shopify" button at draft listing while unpublished variants available (behind the scene sync to shopify) at frontend
+
+4\. **Backend -** Shopify - shopify product options update or create modify for variant create listing backend api
+
+5\. **Backend -** Shopify - added support at sync to shopify backend api for show it draft listing (if variant create listing success)
+
+14/01/26
+
+---
+
+1\. **Backend -** fix: listing details, image and price tabs for additional variant create listing time reload data not show
+
+2\. **Frontend -** fix: Redux issue manage with onload or Reload - listing details, image and price tabs for additional variant create listing time reload data not show
+
