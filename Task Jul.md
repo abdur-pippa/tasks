@@ -304,7 +304,7 @@
 
 ---
 
-Sick Leave
+Sick Leave - Approved
 
 08/08/25
 
@@ -341,7 +341,7 @@ order detail page
 
 ---
 
-Casual Leave (family emergency)
+Casual Leave (family emergency) - Approved
 
 14/08/25
 
@@ -548,13 +548,13 @@ Casual Leave (family emergency)
 
 ---
 
-Sick Leave
+Sick Leave - Approved
 
 15/09/25
 
 ---
 
-Casual Leave
+Casual Leave (road blockade) - Unapproved
 
 16/09/25
 
@@ -888,7 +888,7 @@ Office location change - alter workday to others saturday
 
 ---
 
-Casual Leave (urgent matter (land) - travel home)
+Casual Leave (urgent matter (land) - travel home) - Approved
 
 08/11/25
 
@@ -1214,7 +1214,7 @@ Casual Leave (urgent matter (land) - travel home)
 
 ---
 
-Sick Leave
+Sick Leave - Approved
 
 18/12/25
 
@@ -1330,7 +1330,7 @@ Sick Leave
 
 ---
 
-Casual Leave (family emergency)
+Casual Leave (family emergency) - Approved
 
 05/01/26
 
