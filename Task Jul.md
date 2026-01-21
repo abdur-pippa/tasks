@@ -1414,3 +1414,61 @@ Casual Leave (family emergency) - Approved
 
 2\. **Frontend -** fix: Redux issue manage with onload or Reload - listing details, image and price tabs for additional variant create listing time reload data not show
 
+15/01/26
+
+---
+
+1\. **Backend -** Ready doc with short activity, ER diagram, SRS, flowchart for Order Create Shipping Label with shipping career.
+
+2\. **Backend -** R & D Create Shipping Label with integrate shipping carrier
+
+18/01/26
+
+---
+
+1\. **Backend -** Build package types api with shipstation / shipengine api backend
+
+2\. **Backend -** dependend fields api of package dimensions at Create Shipping Label modal
+
+3\. **Frontend -** frontend functionalities of package information sections
+
+4\. **Frontend -** add support of Label wise options render at select basic global component
+
+19/01/26
+
+---
+
+1\. **Backend -** Validate address api with shipengine
+
+2\. **Frontend -** Ship From and address frontend design & functionalities
+
+3\. **Frontend -** Validate Ship To frontend design & functionalities
+
+4\. **Frontend -** Multi steps at Shipment / Create label drawer
+
+5\. **Frontend -** Qbits - rma list page some design modify
+
+6\. **Frontend -** Qbits - SKD Name (Requested) selected as same as return skd name
+
+7\. **Frontend -** Qbits - Qbits - chore: add completed item status rma report card
+
+
+20/01/26
+
+---
+
+1\. **Backend -** Implement get rates for selected carrier and prepare data with shipengine api
+
+2\. **Frontend -** Get rates steps section at Create Shipping Label drawer
+
+3\. **Frontend -** Buy Label and Label Formate design and functionalities
+
+21/01/26
+
+---
+
+1\. **Backend -** Create Shipping Label steps (1.Package 2. Ship From 3. Ship To & Get Rates 4. Rates)
+and Window open with Label file - with backend fulfillments.
+
+2\. **Frontend -** shipping label instantly show at new tab after buy label
+
