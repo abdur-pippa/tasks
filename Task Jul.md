@@ -1330,7 +1330,7 @@ Sick Leave - Approved
 
 ---
 
-Casual Leave (family emergency) - Approved
+Sick Leave - Approved
 
 05/01/26
 
@@ -1471,4 +1471,113 @@ Casual Leave (family emergency) - Approved
 and Window open with Label file - with backend fulfillments.
 
 2\. **Frontend -** shipping label instantly show at new tab after buy label
+
+22/01/26
+
+---
+
+1\. **Backend -** finalize Shipping career implementation - Order refine
+
+2\. **Frontend -** Show tracking no and url
+
+3\. **Frontend -** collaborate shopify variant feedback issue
+
+25/01/26
+
+---
+
+Sick Leave - Approved
+
+26/01/26
+
+---
+
+1\. **Backend -** Overall check shipping carrier and multiple fulfillment
+
+2\. **Frontend -** analyze split rest fulfillment
+
+3\. **Frontend -** collaborate marketplace variant create listing image upload and main image upload
+
+27/01/26
+
+---
+
+1\. **Backend -** analyze selbrite template features
+
+2\. **Frontend -** r & d selbrite journey
+
+28/01/26
+
+---
+
+1\. **Backend -** feat: show partial listed and published listings to separate tab (draft and active tab)
+
+2\. **Backend -** optimize: query
+
+3\. **Frontend -** feat: show draft status for partial listed variants
+
+29/01/26
+
+---
+
+Tour Kaptai - this workday shift to next 7 feb
+
+## February 26 END
+
+# ==================
+
+# March 2026 START
+
+# ==================
+
+01/02/26
+
+---
+
+1\. **Backend -** feat: delete listing with partial variants from separate tab - child variant delete frontend
+
+2\. **Frontend -** feat: show partial listed and published listings to separate tab (draft and active tab) backend
+
+3\.**Frontend -** fix: prevent all variations delete at shopify edit listing
+
+4\.**Frontend -** fix: Negative: Verify published variation does not merge with Inactive variations
+
+02/02/26
+
+---
+
+1\. **Backend -** found several bug about partial variant listing and co-operate to team and suggest to fix it.
+fix: shopify partial variant show incorrect variants draft/active/inactive tab
+
+2\. **Frontend -** fix: when listing is in inactive, then make a new partial variant create listing into draft - restrict listing publish again as, its already in inactive - means its already in marketplace but in inactive status.
+
+3\. **Frontend -** fix: shopify partial variant show incorrect counts issue (draft/active/inactive) tab
+
+4\. **Frontend -** fix: shopify partial variant show incorrect variants product details page
+
+5\. **Frontend -** collaborate order flow with team
+
+6\. **Frontend -** collaborate qbits product and customer service with team
+
+03/02/26
+
+---
+
+1\. **Backend -** Collaborate Instant replace skd same type 
+
+2\. **Frontend -** R & D Instant replace skd same type filter with exact match
+
+04/02/26
+
+---
+
+Shab-E-Barat
+
+05/02/26
+
+---
+
+1\. **Backend -** Shopify category template R & D
+
+2\. **Frontend -** Collaborate order shipment of other marketplace with marketplace
 
