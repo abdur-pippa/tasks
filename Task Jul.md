@@ -1336,7 +1336,7 @@ Sick Leave - Approved
 
 ---
 
-1\. **Backend -** Qbits - finalize (instant replacement and RMA) at customer service and product service detail page 
+1\. **Backend -** Qbits - finalize (instant replacement and RMA) at customer service and product service detail page
 
 2\. **Frontend -** Qbits - modify: hide Hand over button button for rma, as it is already hand overed at for customer service and product service detail
 
@@ -1452,7 +1452,6 @@ Sick Leave - Approved
 
 7\. **Frontend -** Qbits - Qbits - chore: add completed item status rma report card
 
-
 20/01/26
 
 ---
@@ -1563,7 +1562,7 @@ fix: shopify partial variant show incorrect variants draft/active/inactive tab
 
 ---
 
-1\. **Backend -** Collaborate Instant replace skd same type 
+1\. **Backend -** Collaborate Instant replace skd same type
 
 2\. **Frontend -** R & D Instant replace skd same type filter with exact match
 
@@ -1577,7 +1576,148 @@ Shab-E-Barat
 
 ---
 
-1\. **Backend -** Shopify category template R & D
+1\. **Backend -** Shopify module - Shopify category template R & D
 
-2\. **Frontend -** Collaborate order shipment of other marketplace with marketplace
+2\. **Frontend -** Shopify module - Collaborate order shipment of other marketplace with marketplace
 
+07/02/26
+
+---
+
+1\. **Backend -** PM-15 Shopify Category Listing Template - Collaborate order shipment of other marketplace
+
+2\. **Frontend -** PM-15 Shopify Category Listing Template - Deign Shopify category template details page
+Collaborate order shipment of other marketplace
+
+08/02/26
+
+---
+
+Sick Leave
+
+09/02/26
+
+---
+
+1\. **Backend -** PM-15 Shopify Category Listing Template - feat: shopify category template tabs with feedback design
+
+2\. **Frontend -** PM-15 Shopify Category Listing Template -Popup show and render list of inventory attributes name and ux improve with functionalities
+
+10/02/26
+
+---
+
+1\. **Frontend -** Shopify module - feat: insert inventory attributes suggestions into selected fields at product details tab of shopify category template
+
+2\. **Frontend -** Shopify module - feat: hovering merge icon popup card show and render list of inventory attributes suggestion
+
+3\. **Frontend -** Shopify module - feat: insert inventory attributes suggestions into selected fields at price and other info tab, webside seo of shopify category template
+
+11/02/26
+
+---
+
+Election
+
+12/02/26
+
+---
+
+Election
+
+15/02/26
+
+---
+
+1\. **Frontend -** feat: finalize and cleanup category template recipe placeholder fields
+
+2\. **Frontend -** feat: apply placeholder type of recipe for category template
+
+16/02/26
+
+---
+
+1\. **Backend -** channel settings - take over and its drawer
+
+2\. **Backend -** channel settings - R & D for common format of different marketplace format of marketplace data
+
+17/02/26
+
+---
+
+1\. **Backend -** channel settings - shop id, currency, country fetch by graphQl and store for all marketplace
+
+2\. **Frontend -** channel settings - show at drawer fields dynamically by common format of different marketplace format mapping marketplace data
+
+18/02/26
+
+---
+
+1\. **Backend -** Qbits - added required field at create skd
+
+2\. **Frontend -** Qbits - modify skd list page column
+
+3\. **Frontend -** Qbits - added required field at create skd type
+
+4\. **Frontend -** Qbits - fix price field ux create purchase order
+
+5\. **Frontend -** Qbits - PO details modal design change with order details and functionalities
+
+19/02/26
+
+---
+
+1\. **Frontend -** Qbits - feat: PO details re-design and global with pass children to verify modal and functionalities.
+
+2\. **Backend -** Qbits - feat: add weight field at create skd column at list page frontend & backend.
+
+3\. **Frontend -** Qbits - feat: remove barcode prefix status and add barcode type field with live validation frontend and backend.
+
+4\. **Backend -** Qbits - create skd type config modify - in prog.
+
+5\. **Backend -** Qbits - collaborate features discussion tasks
+
+22/02/26
+
+---
+
+1\. **Backend -** Qbits - skd type config feedback - dynamically render attributes
+
+2\. **Frontend -** Qbits - Create and Edit both modal functionalities with custom attributes
+
+3\. **Backend -** Qbits - Backend update for skd type config feedback
+
+23/02/26
+
+---
+
+Casual Leave
+
+24/02/26
+
+---
+
+Sick Leave
+
+25/02/26
+
+---
+
+1\. **Backend -** Qbits - chore: barcode auto prefix generate at create skd type
+
+2\. **Frontend -** Qbits - chore: remove unnecessary channel field and refactor SKD Type Configuration List
+
+3\. **Frontend -** Qbits - chore: remove channel field and refactor Create SKD Type Configuration
+apply filter functionalities at skd list page frontend
+
+26/02/26
+
+---
+
+1\. **Backend -** Qbits - skd type filter options
+
+2\. **Frontend -** Qbits - skd filter options design changes
+
+3\. **Frontend -** Qbits - backend functionalities of skd sections
+
+4\. **Frontend -** Qbits - skd type filter options functionalities
