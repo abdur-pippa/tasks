@@ -1521,13 +1521,13 @@ Sick Leave - Approved
 
 Tour Kaptai - this workday shift to next 7 feb
 
-## February 26 END
+## January 26 END
 
-# ==================
+# ===================
 
-# March 2026 START
+# February 2026 START
 
-# ==================
+# ===================
 
 01/02/26
 
@@ -1721,3 +1721,189 @@ apply filter functionalities at skd list page frontend
 3\. **Frontend -** Qbits - backend functionalities of skd sections
 
 4\. **Frontend -** Qbits - skd type filter options functionalities
+
+## February 26 END
+
+# ==================
+
+# March 2026 START
+
+# ==================
+
+
+01/03/26
+
+---
+
+1. **Frontend -** Qbits admin - global filters support added at Skd, Skd type, Supplier, PO, Inventory sections
+
+2. **Backend -** Qbits admin - filters support added at Skd, Skd type, Supplier, PO, Inventory sections
+
+3. Qbits admin - RMA module changes discuss
+
+02/03/26
+
+---
+
+1. **Backend -** Qbits admin - confirm module verification api
+
+2. **Frontend -** Qbits admin - show confirm option before verify and action column modify
+
+3. **Frontend -** Qbits admin - added china c & f alternate by confirmation at ro details page
+
+4. **Frontend -** Qbits admin - show general information at verify modal details
+
+03/03/26
+
+---
+
+1. **Frontend -** Qbits admin - note comment option added, show last comment at note column
+
+2. **Frontend -** Qbits admin - priority 1st cnf reminder date then china cnf input
+
+3. **Frontend -** Qbits admin - RO details status/stage name change and ReceivedModal fields
+
+4. **Frontend -** Qbits admin - user should view only Return Order column while ro verified at return item page
+
+5. **Frontend -** Qbits admin - Return order details page design with drawer component
+
+04/03/26
+
+---
+
+1. **Frontend -** Qbits admin - return order shipments design frontend
+
+12. **Backend -** Qbits admin - return order shipment backend
+
+05/03/26
+
+---
+
+1. **Fullstack -** Qbits admin - finalize return order shipments
+
+2. **Backend -** Qbits admin - rma confirm by barcode api
+
+3. **Frontend -** Qbits admin - rma confirm by barcode frontend
+
+4. **Frontend -** Qbits admin - type fields added at rma create modal and list page
+
+5. **Backend -** Qbits admin - confirm permission added at rma
+
+6. **Frontend -** Qbits admin - barcode auto download
+
+07/03/26
+
+---
+
+1. **Backend -** Qbits admin - fix: skd Inventory not found while rma create
+
+2. **Frontend -** Qbits admin - return item global filter added
+
+3. **Backend -** Qbits admin - fix: skd inventory multy search
+
+4. **Analysis -** analysis merge at single column of item_status and status column values issues and scope
+
+5. **Refactor -** refactors
+
+09/03/26
+
+---
+
+1. **Frontend -** Customer Service module - Qbits admin - global otp modal design and functionalities
+
+2. **Fullstack -** Customer Service module - Qbits admin - send and verify otp before customer service store
+
+3. **Fullstack -** Customer Service module - Qbits admin - default receive date and estimate date show and add estimated days at settings
+
+4. **Collaboration -** Customer Service module - Qbits admin - collaborate customer service update
+
+10/03/26
+
+---
+
+1. **Fullstack -** Customer Service module - Qbits admin - Transfer customer service item
+
+2. **Fullstack -** Customer Service module - Qbits admin - Receive Customer Item
+
+3. **Fullstack -** Customer Service module - Qbits admin - Mark as complete or Revert from Customer Service Detail page
+
+4. **Frontend -** Customer Service module - Qbits admin - Action column dynamic
+
+5. **Backend -** Customer Service module - Qbits admin - Item Transfer permission added.
+
+11/03/26
+
+---
+
+1. **Fullstack -** Customer Service module - Qbits admin - 2nd phase of Transfer and Receive from 1st Engg to Sales for customer service item
+
+2. **Collaboration -** Customer Service module - Qbits admin - Align with 1st phase ransfer and Receive from Sales to 1st Engg for customer service item
+
+3. **Fullstack -** Customer Service module - Qbits admin - Deliver Item from Action, deliver modal design and otp functionalities for Confirm Deliver
+
+4. **Frontend -** Customer Service module - Qbits admin - New redux added for useIsModuleVerifier by verification api and uses at customer service.
+
+12/03/26
+
+---
+
+1. **Frontend -** Customer Service module - Qbits admin - 2nd Engg. Send to repair, Open Repair Warehouse Transfer modal design and its functionalities.
+
+2. **Frontend -** Customer Service module - Qbits admin - data show at warehouse transfer list
+
+3. **Fullstack -** Customer Service module - Qbits admin - Handover and Receive functionalities to customer service repair list operation need to test
+
+14/03/26
+
+---
+
+1. **Backend -** Customer Service module - Qbits admin - fix: warehouse transfer barcode scan for dynamic inventories
+
+2. **Backend -** Customer Service module - Qbits admin - DB refactor and update codebase
+
+3. **Frontend -** Customer Service module - Qbits admin - RepairWarehouseTransfer modal functionalities.
+
+4. **Fullstack -** Customer Service module - Qbits admin - Handover and Receive functionalities to customer service repair list operation need to test
+
+5. **Fullstack -** Customer Service module - Qbits admin - Customer service update flow done
+
+15/03/26
+
+---
+
+1. **Frontend -** Customer Service repair module - Qbits admin - Approve option added alter of Disassembled
+
+2. **Fullstack -** Customer Service repair module - Qbits admin - Transfer and Tested from repair list
+
+3. **Fullstack -** Customer Service repair module - Qbits admin - Finish and Transfer as engg. from customer details page
+
+4. **Frontend -** Customer Service repair module - Qbits admin - Repair list page added Transfer functionalities
+
+5. **Discussion -** Review and feedback discussions
+
+16/03/26
+
+---
+
+1. **Backend -** Customer Service Repair module - Qbits admin - Prevent not to deliver Enng. could deliver sales
+
+2. **Backend -** Customer Service Repair module - Qbits admin - Db optimization and refactor
+
+3. **Fullstack -** Customer Service Repair module - Qbits admin - Customer service and repair flow status fix feedback
+
+4. **Backend -** Customer Service Repair module - Qbits admin - Button permission changes
+
+5. **Backend -** Customer Service Repair module - Qbits admin - Prevent not to complete while transfer or not in hand of self one
+
+17/03/26
+
+---
+
+Shab-E-Qadar
+
+18/03/26 - 28/03/26
+
+---
+
+Eid Vacation 4 days (18,19,22,23)
+
