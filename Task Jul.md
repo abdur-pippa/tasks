@@ -2207,3 +2207,178 @@ Casual Leave - Approved
 2. **Fullstack -** collaborate and r & d about qbits return order and scan
 
 ## April 26 END
+
+# ==================
+
+# May 2026 START
+
+# ==================
+
+03/05/26
+
+---
+
+1. **Fullstack -** Pippasync - Order Module - takeover re feedback and ui ux issues of some order
+
+
+2. **Fullstack -** collaborate and discuss about order module with full team
+
+04/05/26
+
+---
+
+1. **Fullstack -** Pippasync - Order Module - chore: status column remove and action column remove for open orders
+
+2. **Fullstack -** feat: order cancel from order detail page
+
+3. **Fullstack -** fix: all over columns width and alignment for order list page
+
+4. **Fullstack -** chore: order list page query modify for shipment warehouse show and optimized
+
+5. **Fullstack -** feat: warehouse relation with order shipment
+
+05/05/26
+
+---
+
+1. **Fullstack -** Pippasync - Order Module - chore: sku hover link color
+
+2. **Fullstack -** chore: order details card gap and width
+
+3. **Fullstack -** chore: package type loader added
+
+4. **Fullstack -** feat: order link show only for custom order
+
+5. **Fullstack -** chore: sidebar click on order then go to Ready to ship tab for oder list page.
+
+6. **Fullstack -** chore: print option show
+
+7. **Fullstack -** fix: last stage get rates data not come first time at create shipping label
+
+8. **Fullstack -** chore: order shipment cards section taken at drawer
+
+9. **Fullstack -** chore: fulfilled by
+
+10. **Fullstack -** chore: hide action column at orders page all tab
+
+06/05/26
+
+---
+
+1. **Fullstack -** Pippasync - Order Module - feat(order-detail): add Mark As Delivered button and modal
+
+2. **Fullstack -** Display Mark As Delivered button when order status is transit
+
+3. **Fullstack -** Implement handleMarkAsDelivered using OnDeliveredChannelOrder API service
+
+4. **Fullstack -** Add confirmation modal for delivery action
+feat(order): refine shipping workflow and status handling
+
+5. **Fullstack -** Implement 'Mark As Delivered' action and modal in OrderDetail
+
+6. **Fullstack -** Refactor CreateShipmentDrawer to use new shipping_address object structure
+
+7. **Fullstack -** Update ShipmentCard to display standardized status labels (Fulfilled, In transit, Delivered)
+
+8. **Fullstack -** Hide 'Cancel Order' action for refunded orders
+
+9. **Fullstack -** Improve country selection fallback logic in shipment creation
+
+10. **Fullstack -** refactor
+
+07/05/26
+
+---
+
+1. **Fullstack -** Pippasync - Order Module - feat: order page loader
+
+2. **Fullstack -** chore: package type loading ux
+
+3. **Fullstack -** feat: autofill Ship From info from default warehouse and add warehouse selector
+
+4. **Fullstack -** chore: update fulfillment normalization and status sync priority
+
+5. **Fullstack -** Refactor order fulfillment status transitions 
+
+6. **Fullstack -** Rewrite markAsTransit and markAsDelivered to use existing fulfillments created by createShipment 
+
+7. **Fullstack -** Fix ShopifyAdapter to skip fulfillment creation and only post IN_TRANSIT/DELIVERED events when a fulfillment ID exists
+
+8. **Fullstack -** Remove obsolete updateFulfillment method and legacy fulfillment generation logic
+
+9. **Fullstack -** Prevent 'Fulfillment order is CLOSED' errors on partial and final shipments
+
+10/05/26
+
+---
+
+1. **Fullstack -** Pippasync - Order Module - feat: autofill Ship From checked hold check after switch between other tabs 
+
+2. **Fullstack -** fix(order-repository): process all shipments on status transition
+
+3. **Fullstack -** Loop through all OrderShipment records in markAsTransit and markAsDelivered
+
+4. **Fullstack -** Prevent issue where only the final created shipment receives Shopify events
+
+5. **Fullstack -** Support batching transit/delivered updates when user clicks action once after creating multiple shipments IN_TRANSIT/DELIVERED events when a fulfillment ID exists
+
+11/05/26
+
+---
+
+1. **Fullstack -** Pippasync website Next.js - Initial Next.js setup
+
+2. **Fullstack -** feat: Add optimized SEO architecture
+
+3. **Fullstack -** style: Migrate global styles and custom Tailwind v4 configurations
+
+4. **Fullstack -** feat: Migrate Navbar and Footer components
+
+5. **Fullstack -** feat: Migrate Hero and Brand homepage sections
+
+1. **Fullstack -** feat: Migrate TabNav, SelfOnboarding, Integration, and Inventory homepage sections
+
+2. **Fullstack -** feat: Migrate LogoList, Syncing, Order, Warehouse, and Facilities components
+
+12/05/26
+
+---
+
+1. **Fullstack -** Pippa website Next.js - feat: Migrate JoinUser and FAQ homepage sections
+
+2. **Fullstack -** feat: migrate homepage components to Next.js
+
+3. **Fullstack -** style: final pixel-perfect adjustments for sticky menu and animations
+
+4. **Fullstack -** style: final adjustments to sticky navigation, section spacing, and banner animations
+
+5. **Fullstack -** feat: implement global ScrollToTopButton and refine Business Query styling
+
+13/05/26
+
+---
+
+1. **Fullstack -** Pippa website Next.js - fix: LearnMoreBtn component with hover arrow animation to home page
+
+2. **Fullstack -** feat: video-tutorials page
+
+3. **Fullstack -** style: fix video-tutorials page pixel-perfect alignment, width, and pagination
+
+4. **Fullstack -** feat: blog page, fix: bog and video tutorial page ui
+
+5. **Fullstack -** feat: faq page
+
+14/05/26
+
+---
+
+1. **Fullstack -** Pippa website Next.js - Hero Section Enhancement: Finalized gradient animations, hover effects, and video overlay logic for the "How it works" Hero component.
+
+2. **Fullstack -** Automated Price Sync Implementation: Built the "Automated Price Sync" section featuring layered asset positioning and a rotating brand message banner.
+
+3. **Fullstack -** Audience Expand Component: Completed the final call-to-action section (AudienceExpand) for the page.
+
+4. **Fullstack -** Layout & Responsive Refinement: Adjusted margins and responsive padding across all "How it works" components to ensure mobile-first parity with the legacy design.
+
+5. **Fullstack -** FAQ Styling Update: Refined the global FAQ component to align perfectly with the page's dark theme and spacing requirements.
+
