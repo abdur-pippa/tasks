@@ -2100,6 +2100,12 @@ Casual Leave - Approved
 
 3. **Fullstack -** preparing doc for pippasync shopify app store publish planning (in prog.)
 
+20/04/26
+
+---
+
+Sick Leave (remote) - Unapproved
+
 21/04/26
 
 ---
