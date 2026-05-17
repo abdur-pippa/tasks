@@ -1730,7 +1730,6 @@ apply filter functionalities at skd list page frontend
 
 # ==================
 
-
 01/03/26
 
 ---
@@ -1773,7 +1772,7 @@ apply filter functionalities at skd list page frontend
 
 1. **Frontend -** Qbits admin - return order shipments design frontend
 
-12. **Backend -** Qbits admin - return order shipment backend
+2. **Backend -** Qbits admin - return order shipment backend
 
 05/03/26
 
@@ -1907,3 +1906,304 @@ Shab-E-Qadar
 
 Eid Vacation 4 days (18,19,22,23)
 
+29/03/26
+
+---
+
+1. **Backend -** Customer Service Warehouse Transfer module - Qbits admin - collaborate and decision for next steps with team (suruj bhai)
+
+2. **Backend -** Customer Service Warehouse Transfer module - Qbits admin - replace existing and use warehouse transfer global modal at customer service details page and its frontend functionalities
+
+3. **Frontend -** Customer Service Warehouse Transfer module - Qbits admin - api update use warehouse transfer global modal at customer service details page and its functionalities
+
+4. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - code optimized
+
+30/03/26
+
+---
+
+1. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - all replace and verified item will transfer at all from Customer Service Repair Detail Page
+
+2. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - Transfer Modal added at Repair list page
+
+3. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - collaborate features, decide and updated db
+
+4. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - code optimized
+
+31/03/26
+
+---
+
+1. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - Test customer service > warehouse transfer > repair list > and transfer, receive iperations and find bug.
+
+2. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - Fix Showing Transfer at same time btn on both customer service and repair list page
+
+3. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - Perform Test on suruj local environment found db missing fields on different tables related customer service and suggest to add and fix
+
+4. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - Debug and found more mission field and add and fixed feedbacks about Set btn show depends on all skds handover and transferred
+
+5. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - And fix Final Receive btn show based on all transferred item handover and complete
+
+6. **Fullstack -** Customer Service Warehouse Transfer module - Qbits admin - Test with rahat bhai full flow again and noted little bugs
+
+## March 26 END
+
+# ==================
+
+# April 2026 START
+
+# ==================
+
+01/04/26
+
+---
+
+1. **Frontend -** Customer Service Warehouse Transfer module - Qbits admin - chore: Set handover only accept same barcode of skd inventory
+
+2. **Fullstack -** fix: complete > tested at Customer Service Repair Details page
+
+3. **Fullstack -** fix: on load after close transfer modal at repair list page
+
+4. **Fullstack -** fix: transfer, Receive and View btn business logic final
+
+5. **Fullstack -** fix: transfer btn business logic repair list page final fixes
+
+6. **Frontend -** fix: showing transfer btn for verifier (enng)
+
+7. **Collaborate -** Test with suruj, rahat bhai full journey handover
+
+02/04/26
+
+---
+
+1. **Fullstack -** Shopify and Order module - Pippasync - shopify module journey
+
+2. **Fullstack -** Shopify and Order module - Order and shipment journey
+
+3. **Fullstack -** Shopify and Order module - Analyze bigcommerce shipping fulfillment implanted features
+
+05/04/26
+
+---
+
+1. **Fullstack -** Pippasync and Qbits - fix: submenu is active (selected) at sidebar
+
+2. **Fullstack -** chore: url params based filter pattern at skd inventory
+
+3. **Fullstack -** chore: page visit and reload url params based page at skd inventory bc fulfill pr check
+
+4. **Fullstack -** fix: page visit and reload issue, filters and reload then gone issue with multi tags skd inventory page
+
+06/04/26
+
+---
+
+1. **Fullstack -** Qbits - chore: url params based filter pattern at skd list
+
+2. **Fullstack -** Qbits - chore: url params based filter pattern at skd type
+
+3. **Fullstack -** Qbits - chore: url params based filter pattern at suppliers
+
+4. **Fullstack -** Qbits - chore: url params based filter pattern and pagination reload issue at suppliers
+
+5. **Fullstack -** Qbits - chore: url params based filter pattern and pagination reload issue at return item
+
+6. **Fullstack -** Qbits - chore: url params based filter pattern and pagination reload issue at suppliers
+
+7. **Fullstack -** Qbits - chore: url params based filter pattern and pagination reload issue at return item
+
+8. **Fullstack -** Qbits - chore: remove verify api direct call, show data from centralize redux
+
+07/04/26
+
+---
+
+Sick Leave - Approved
+
+08/04/26
+
+---
+
+1. **Fullstack -** Pippasync - bug fix: shopify listing publish
+
+2. **Fullstack -** Pippasync - r & d: bigcommerce listing publish
+
+3. **Fullstack -** Pippasync - new bigcommerce account and store setup for test
+
+09/04/26
+
+---
+
+1. **Fullstack -**  Pippasync - Shopify module bugfix - fix: same inventory listing on different shopify store
+
+2. **Fullstack -**  Pippasync - fix: Verify same product can be published to two different Shopify stores
+
+3. **Fullstack -**  Pippasync - fix: Edge: Verify SKU handling across multiple Shopify stores
+
+4. **Fullstack -**  Pippasync - fix: Edge: Verify product published to Store-1 does not block draft creation for Store-2
+
+5. **Fullstack -**  Pippasync - fix: Verify Draft is marketplace-specific
+
+5. **Fullstack -**  Pippasync - fix: Stock updates correctly per sync rule but do not overwrite another store product
+
+12/04/26
+
+---
+
+Casual Leave - Approved
+
+13/04/26
+
+---
+
+1. **Fullstack -** Pippasync - Shopify template module bugfix - chore: decimal value at price
+
+2. **Fullstack -**  Pippasync - fix: seo_title, seo_description saving
+
+3. **Fullstack -**  Pippasync - fix: initially create template time price and other infos tab not saving
+
+4. **Frontend -**  Pippasync - fix: type at template parser service api
+
+5. **Fullstack -**  Pippasync - fix: Invalid JSON text: "Invalid value." at position 0 in value for column 'shopify_category_templates.seo_description' api
+
+15/04/26
+
+---
+
+1. **Fullstack -**  Pippasync - Shopify template module bugfix - collaborate template module features with alif
+
+2. **Fullstack -** Test template module and revise with shopify
+
+3. **Fullstack -** fix: add support for weight, dimension, manufacturer options in template recipe
+
+16/04/26
+
+---
+
+1. **Fullstack -**  Pippasync - Shopify template module bugfix - fix: condition shopify listing err publish at frontend
+
+2. **Fullstack -** fix: multi store filter added at frontend
+
+3. **Fullstack -** feat: added description option suggestion both frontend and backend
+
+4. **Fullstack -** fix: attribute apply shopify listing template at backend
+
+5. **Fullstack -** fix: dropdown icon added at shopify category template modal at frontend
+
+19/04/26
+
+---
+
+1. **Fullstack -** Pippasync and Shopify app publish - R & D pippasync and shopify app publish criteria
+
+2. **Fullstack -** analyzes pippasync both frontend and backend all over (in prog.)
+
+3. **Fullstack -** preparing doc for pippasync shopify app store publish planning (in prog.)
+
+21/04/26
+
+---
+
+1. **Fullstack -** Pippasync order module feedback fixes - fix: days dropdown sometimes automatically come while cancel tab click at order list page
+
+2. **Fullstack -** chore: user could cancel from open tab at order list page
+
+3. **Fullstack -** chore: at Ready to Ship tab not need Mark As Delivered action
+
+4. **Fullstack -** feat: user could go to inventory edit page by click sku from order details page
+
+5. **Fullstack -** feat: load stock item id and modify query at order detail page
+
+22/04/26
+
+---
+
+1. **Fullstack -** Pippasync shipment improvements - fix: undefined console err at create shipment drawer after miad work
+
+2. **Fullstack -** fix: validate State/Province accept max two character
+
+3. **Fullstack -** chore: improve ux of select item to ship
+
+4. **Fullstack -** chore: improvements, such clients could understand the error message
+
+5. **Fullstack -** chore: refactor for migrations
+
+23/04/26
+
+---
+
+1. **Fullstack -** Pippasync shipment improvements - collaborate and test with alif for shopify listing publish - order - fulfillments / multiple shipments.
+
+2. **Fullstack -** fix: package type not hold selected value after back to package tab again
+
+3. **Fullstack -** fix: at ship to tab email estarstick required
+
+4. **Fullstack -** fix: at ship to tab email estarstick required
+
+5. **Fullstack -** fix: label format selected value at Get rates tab
+
+6. **Fullstack -** find out order related dependencies and doc
+
+26/04/26
+
+---
+
+1. **Fullstack -** Pippasync order module improvements - Optimized: Transit tab query only loads fulfillments_quantities column, other tabs skip the join entirely
+
+2. **Fullstack -** Fixed: Last unit shipment (e.g. 1 remaining out of 5) no longer fails — skips Shopify split when no split is needed and fulfills the existing FO directly
+
+3. **Fullstack -** Fixed: Fulfillment data now re-syncs from Shopify after every label-buy shipment, so order_fulfillments table stays accurate (no more stale OPEN FOs)
+
+4. **Fullstack -** Fixed: "Mark as Delivered" hidden from transit tab for partially-fulfilled orders (frontend guard)
+
+5. **Fullstack -** Fixed: When all items already shipped via labels, "Mark as Delivered" updates local DB only — no longer creates unwanted duplicate fulfillments on Shopify Sync / Status Regression
+
+6. **Fullstack -** Fixed: 15-min periodic sync no longer overwrites transit/delivered status back to paid — added status ratchet (forward-only progression, destructive statuses like cancelled/refunded always override) Cleanup
+
+7. **Fullstack -** Fixed: isFullyFulfilled check now uses actual shipment data (fulfillments_quantities) instead of non-existent fulfilled_quantity field
+
+8. **Fullstack -** ui feedbacks update
+
+27/04/26
+
+---
+
+1. **Fullstack -** Pippasync order module improvements - feat: Added a red dot circle specifically next to the "Status" value inside the table cell (no new columns added) to visually flag orders containing items that are not in inventory.
+
+2. **Fullstack -** The indicator dynamically checks for the has_unlinked_inventory flag provided by the backend API.
+
+3. **Fullstack -** Improve ux: Item name and sku in separate row at create shipping label drawer
+
+4. **Fullstack -** improve ux: Order list page column width adjustment
+
+5. **Fullstack -** fix: sku migration column type in order line items table
+
+28/04/26
+
+---
+
+1. **Fullstack -** Pippasync order module improvements - optimize codebase for shipment and order
+
+2. **Fullstack -** collaborate channel settings with team
+
+3. **Fullstack -** improve user experience for some ui
+
+29/04/26
+
+---
+
+1. **Fullstack -** Pippasync - analysis inventory system find improvements area and noted  
+
+2. **Fullstack -** Pippasync - different principles learn scopes of that could apply or not
+
+3. **Fullstack -** Pippasync - improve user experience for some ui
+
+30/04/26
+
+---
+
+1. **Fullstack -** Pippasync - about Kafka and RabbitMQ collaborate and join session with team that scope with pippasync
+
+2. **Fullstack -** collaborate and r & d about qbits return order and scan
+
+## April 26 END
